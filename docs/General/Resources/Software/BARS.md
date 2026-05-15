@@ -6,4 +6,3 @@ BARS is a payware addon for Microsoft Flight Simulator that guides pilots using 
 ## Installation
 
 BARS is configurated in the sector file already, however you need an API link to connect to the BARS network. The link to the website will be located in  
-
