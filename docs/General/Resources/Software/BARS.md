@@ -21,4 +21,4 @@ Click on the "BARS OFF" popout and insert your API token (copied from the websit
 
 ## Note
 
-BARS isn't commonly used. Aircraft using BARS will have a green dot on. 
+BARS isn't commonly used. Aircraft using BARS will have a green dot on. BARS is not required to be used, it's just a cool addition to the VATSIM experience.  
