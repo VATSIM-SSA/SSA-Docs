@@ -26,6 +26,21 @@
 - [HTDC Agreed Levels Diagram](https://vatssa.com/hq/images/HTDC_Agreed-Levels.png)
 
 
+## Sector Files
+
+- [DGAC sector file]((https://files.aero-nav.com/DGAC))
+
+
+
+
+
+
+
+
+
+
+
+
 ## Letters of Agreement
 
 - [HKJK-HTDA [Internal: ACCRAC]](https://vatssa.com/hq/policies/LOA_Int_HKJK_HTDA_202201.pdf)
