@@ -19,6 +19,10 @@ To allow bars to draw on the groundradar, you need to go to OTHER SET and plug-i
 
 To connect to the BARS network, you need an API code. This requires you to visit the BARS website. Simply, create an account and regenerate an API token. Also remember to verify your email with a 6 digit code to allow you to connect. Now you are ready to connect to the network.
 
+
+![BARStoken](img/BARSsetup2.png)
+
+
 ### Setup
 
 Click on the "BARS OFF" popout and insert your API token (copied from the website.) After this is completed,  BARS should automatically connect. The next step, for BARS to work you need to setup your runways. By clicking the BARS popout, you should see "Set Runways". To set your runways, click on the runways you are using. This will now draw the stopbars. To highlight the BARS, left click on them. 
