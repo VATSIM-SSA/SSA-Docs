@@ -1,7 +1,7 @@
 # BARS Plugin for FASA
 
 ## Overview
-BARS is ane addon for Microsoft Flight Simulator that guides pilots using taxi lights to the runway or to a designated area on the airport.
+BARS is an addon for Microsoft Flight Simulator that guides pilots using taxi lights to the runway or to a designated area on the airport.
 
 ## Installation
 
