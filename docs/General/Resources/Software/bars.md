@@ -31,10 +31,9 @@ Click on the "BARS OFF" popout and insert your API token (copied from the websit
 ### Paste that token into API Key
 ![BARStoken](img/BARSsetup3.png)
 
-## End result
+## End resullt
 
-### Runway 01/19 runway setup with BARS visible
-![BARStoken](img/BARSEAIP.png)
+Grey BARS will be displayed near the runway.
 
 ## Note
 
