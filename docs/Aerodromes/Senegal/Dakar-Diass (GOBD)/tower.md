@@ -1,6 +1,6 @@
 # Dakar Tower
 
-The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS unit, Dakar Tower (GOBD_TWR) on 118.800. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Dakar CTR from GND - 1500ft MSL.
+The responsibility of Tower at Dakar falls to the dedicated Tower ATS unit, Dakar Tower (GOBD_TWR) on 118.800. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Dakar CTR from GND - 1500ft MSL.
 
 ## VFR rules Aircraft
 
@@ -18,7 +18,7 @@ The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS u
 !!! info "Circuit Clearance (Non STD)"
     GWARY, hold position, after departure Runway 01, non standard L / R hand circuits, not above altitude 1500ft, report non standard  R downwind Runway 01.
 
-  ### VFR Departures runway 01
+### VFR Departures runway 01
 
   | Rwy | Sector | Exit Procedure | Altitude | Remarks                      |
 |-----|--------|----------------|----------|------------------------------|
