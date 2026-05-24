@@ -52,21 +52,21 @@
 ## Departure Procedures
 
 !!! warning
-    Only SIDs which are currently in operation are listed below. SIDs which are suspended will require pilots to instead be given Runway Track.
+    Only SIDs which are currently in operation are listed below. SIDs which are suspended will require pilots to instead be given Runway Track. Note that ETLIG is the RNAV point for HGV.
 
 Runway 03L
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| APDAK | APDAK1B | FL110 | - |
+| APDAK, EXOBI | APDAK1B, EXOBI1C | FL110 | - |
 | GAV, NESAN, VASUR, RAGUL | RWY TRK | 8000ft | - |
-| EGMEN, EXOBI | RWY TRK | FL90 | - |
+| EGMEN | RWY TRK | FL90 | - |
 
 Runway 03R
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| APDAK | RWY TRK | FL110 | - |
+| APDAK, EXOBI | RWY TRK | FL110 | - |
 | GAV, NESAN, VASUR, RAGUL | RWY TRK | 8000ft | - |
 | EGMEN, EXOBI | RWY TRK | FL90 | - |
 
@@ -75,14 +75,16 @@ Runway 21R
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
 | RAGUL | RAGUL1D | FL90 | - |
-| APDAK, EGMEN, EXOBI, GAV, HGV, LIV, OVALA, VASUR, GEROX | RWY TRK | 8000ft | - |
+| ETLIG | ETLIG1B | FL110 | - |
+| APDAK, EGMEN, EXOBI, GAV, LIV, OVALA, VASUR, GEROX | RWY TRK | 8000ft | - |
 
 Runway 21L
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
 | RAGUL | RWY TRK | FL90 | - |
-| APDAK, EGMEN, EXOBI, GAV, GEROX, HGV, LIV, OVALA, VASUR | RWY TRK | 8000ft | - |
+| ETLIG | RWY TRK | FL110 | - |
+| APDAK, EGMEN, EXOBI, GAV, GEROX, LIV, OVALA, VASUR | RWY TRK | 8000ft | - |
 
 ## Phraseology
 
@@ -108,11 +110,11 @@ Runway Track
 | EXOBI | 124.500 |
 | GAV | 123.700 |
 | GEROX | 124.500 |
-| HGV | 124.500 |
+| HGV/ETLIG | 124.500 |
 | OVALA | 124.500 |
 | NESAN | 123.700 |
 | RAGUL | 123.700 |
-| VASUR / LIV | 123.700 |
+| VASUR/LIV | 123.700 |
 
 !!! warning
     If FAOR_W_APP is not online, then all radar frequencies shall be given as 124.500 or as appropiate.
