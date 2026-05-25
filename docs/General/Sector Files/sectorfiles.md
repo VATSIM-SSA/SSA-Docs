@@ -5,10 +5,7 @@ Please ensure you keep up to date with your sector files. They are usually updat
 
 Mostly there are two options for downloading files. The "Full install" files are usually what you need. This includes the entire sector file and all associated add-ons. The "Update" files contain only those files with changes from the previous sector file. The should only be used when updating directly from the previous sector file, and the amended files used to overwrite the previous file.
 
-With new provisions, some sector files will be delayed for a new update due to staff workload. 
-
-!!! warning
-    With new provisions, some sector files will be delayed for a new update due to staff workload.  Sector files on this page are the latest releases.
+With new provisions, some sector files will be delayed for a new update due to staff workload. All files on this page are the latest release version. 
 
 ## Sector Files
 
