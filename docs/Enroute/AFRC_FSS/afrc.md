@@ -38,15 +38,17 @@ Within this page is some things to keep in mind while controlling this sector.
 
 The CPDLC logon code is (*AFRC*)
 
-| SELCAL         | FLFI | -    | - |
-| :::            | FNAN | -    | - |
-| :::            | FSSS | Available | - |
-| :::            | FWLL | Not Available | - |
-| :::            | FZZA | -    | - |
-| :::            | HBBA | -    | - |
-| :::            | HKNA | Not Available | - |
-| :::            | HRYR | -    | - |
-| :::            | HTDC | Not Available | - |
+ | Code  | Availability | Notes |
+|--------|----------------|-------|
+| FLFI   | -              | -     |
+| FNAN   | -              | -     |
+ | FSSS   | Available      | -     |
+| FWLL   | Not Available  | -     |
+ | FZZA   | -              | -     |
+ | HBBA   | -              | -     |
+ | HKNA   | Not Available  | -     |
+ | HRYR   | -              | -     |
+| HTDC   | Not Available  | -     |
 | SLOP          | FLFI | -    | - |
 | :::            | FNAN | -    | - |
 | :::            | FSSS | Allowed beyond 200 NM PRA above FL290 | - |
