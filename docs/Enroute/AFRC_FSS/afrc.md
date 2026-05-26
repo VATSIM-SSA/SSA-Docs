@@ -53,6 +53,7 @@ The CPDLC logon code is (*AFRC*)
  | HRYR   | -              | -     |
 | HTDC   | Not Available  | -     |
 
+## SLOP
 
 | FIR  | Description | Notes |
 |--------|----------------|-------|
@@ -65,12 +66,17 @@ The CPDLC logon code is (*AFRC*)
  | HKNA   | Not Allowed | - |
  | HRYR   | -              | -     |
  | HTDC   | Allowed        | -     |
-| VFR            | FLFI | -    | - |
-| :::            | FNAN | -    | - |
-| :::            | FSSS | -    | - |
-| :::            | FWLL | Not above FL150 | - |
-| :::            | FZZA | -    | - |
-| :::            | HBBA | -    | - |
-| :::            | HKNA | Not above FL150 | - |
-| :::            | HRYR | -    | - |
-| :::            | HTDC | Not above FL145 | - |
+
+## VFR Rules
+ 
+| Code  | Description | Notes |
+|--------|----------------|-------|
+ | FLFI   | -              | -     |
+| FNAN   | -              | -     |
+ | FSSS   | -              | -     |
+ | FWLL   | Not above FL150 | -   |
+ | FZZA   | -              | -     |
+ | HBBA   | -              | -     |
+ | HKNA   | Not above FL150 | -   |
+ | HRYR   | -              | -     |
+ | HTDC   | Not above FL145 | -   |
