@@ -38,7 +38,10 @@ Within this page is some things to keep in mind while controlling this sector.
 
 The CPDLC logon code is (*AFRC*)
 
- | Code  | Availability | Notes |
+## SELCAL
+
+
+ | FIR  | Availability | Notes |
 |--------|----------------|-------|
 | FLFI   | -              | -     |
 | FNAN   | -              | -     |
