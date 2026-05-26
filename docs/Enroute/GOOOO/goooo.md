@@ -56,4 +56,4 @@ codes. Route portions between waypoints will be indicated by means of “DCT” 
 
  | Airspace/Class     | Owner/Limits                 | Remarks |
 |----------------|----------------------|---------|
-| Dakar Oceanic/A        | GOOC_CTR/FL245-UNLTD       | -       |
+| Dakar Oceanic/A        | GOOC_CTR/FL200-UNLTD       | -       |
