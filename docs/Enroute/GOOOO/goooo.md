@@ -1,6 +1,6 @@
 # 1. Dakar Oceanic
 
-The Dakar Oceanic FIR covers an oceanic segment of the South Atlantic. It is neighbored by Dakar [GOOO] FIR in the East, Sal Oceanic to the North and Altantico to the South.
+The Dakar Oceanic FIR covers an oceanic segment of the South Atlantic. It is neighbored by Dakar [GOOO] and Accra [DGAO] FIR in the East, Sal Oceanic to the North and Altantico to the South.
 
 ## Airport Coverage
 
@@ -17,9 +17,8 @@ Dakar Oceanic does not cover any airports.
 ## Separation
 
  10 Minutes or 80 NM derived by RNAV when using the Mach Number Technique on designated EUR-SAM routes.
-   10 Minutes on the portion of UR976 and on the portion of UA602 for traffic NOT destinated to NAT region without application of the MNT
-   10 minutes for crossing traffic withing Sal Oceanic.
-   20 minutes in all other cases.
+   10 minutes for crossing traffic withing Dakar Oceanic.
+  
 
    ### Vertical Separation
 
@@ -28,37 +27,33 @@ Dakar Oceanic does not cover any airports.
 
    ## Flex Track
 
-   Flexible routings are implemented within Sal FIR/UIR (GVSC) above FL245. Within Sal airspace users will be able to plan user-preferred trajectories through the use of 5 letter waypoint name
+   Flexible routings are implemented within Dakar FIR/UIR (GOOC) above FL245. Within Dakar airspace users will be able to plan user-preferred trajectories through the use of 5 letter waypoint name
 codes. Route portions between waypoints will be indicated by means of “DCT” instruction.
 
 ## CPDLC
 
- CPDLC Services can be made available through the use of the logon code GVSC.
+ CPDLC Services can be made available through the use of the logon code GOOC.
 
  ## SELCAL 
 
- SELCAL is available throughout the Sal Oceanic airspace.
+ SELCAL is available throughout the Dakar Oceanic airspace.
 
  ## SLOP
 
- Standard SLOP Operations area allowed within the Sal Oceanic airspace.
-
-## VFR Rules
-
-Uncontrolled VFR flights should squawk 7000 unless issued a squawk code by ATC.
+ Standard SLOP Operations area allowed within the Dakar Oceanic airspace.
 
 ## Sectors
 
- GVSC represents Sal Oceanic and covers the Oceanic Airspace as well as performing Enroute / CTR functions.
-  GVSA represents Sal Approach and covers the four international airports at Cape Verde.
+ GOOC represents Dakar Oceanic and covers the Oceanic Airspace as well as performing Enroute / CTR functions.
 
   ### Sal Oceanic
 
  | Position/Callsign     | Frequency/CPDLC                 | Remarks |
 |----------------|----------------------|---------|
-| GVSC_CTR/Sal Oceanic       | 128.300/GVSC       | -       |
+| GOOC_A_FSS/Dakar Oceanic       | 123.500/GOOC       | -       |
+| GOOC_B_FSS/Dakar Oceanic       | 124.500/GOOC       | -       |
+| GOOC_FSS/Dakar Oceanic         | 122.500/GOOC       | -       |
 
  | Airspace/Class     | Owner/Limits                 | Remarks |
 |----------------|----------------------|---------|
-| Sal Oceanic UIR/A        | GVSC_CTR/FL245-UNLTD       | -       |
-| Sal Oceanic FIR/?        | GVSC_CTR/GND-FL245       | -       |
+| Dakar Oceanic/A        | GOOC_CTR/FL245-UNLTD       | -       |
