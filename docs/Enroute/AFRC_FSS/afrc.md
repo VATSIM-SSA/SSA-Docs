@@ -52,15 +52,19 @@ The CPDLC logon code is (*AFRC*)
  | HKNA   | Not Available  | -     |
  | HRYR   | -              | -     |
 | HTDC   | Not Available  | -     |
-| SLOP          | FLFI | -    | - |
-| :::            | FNAN | -    | - |
-| :::            | FSSS | Allowed beyond 200 NM PRA above FL290 | - |
-| :::            | FWLL | No Information Published | - |
-| :::            | FZZA | -    | - |
-| :::            | HBBA | -    | - |
-| :::            | HKNA | Not Allowed | - |
-| :::            | HRYR | -    | - |
-| :::            | HTDC | Allowed | - |
+
+
+| FIR  | Description | Notes |
+|--------|----------------|-------|
+ | FLFI   | -              | -     |
+ | FNAN   | -              | -     |
+ | FSSS   | Allowed beyond 200 NM PRA above FL290 | - |
+ | FWLL   |  | - |
+ | FZZA   | -              | -     |
+ | HBBA   | -              | -     |
+ | HKNA   | Not Allowed | - |
+ | HRYR   | -              | -     |
+ | HTDC   | Allowed        | -     |
 | VFR            | FLFI | -    | - |
 | :::            | FNAN | -    | - |
 | :::            | FSSS | -    | - |
