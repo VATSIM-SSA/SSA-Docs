@@ -5,7 +5,7 @@ Africa Central is one of three VATSSA Flight Service Stations serving the airspa
 Within this page is some things to keep in mind while controlling this sector.
 
 !!! info 
-    Due to lack of public AIPs and datasources, this page will not be in the best detail.
+    Due to lack of public AIPs and datasources, this page will not be in the best detail. Dash lines means no information.
 
 ## Airspace type
 
