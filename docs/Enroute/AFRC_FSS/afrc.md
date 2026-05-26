@@ -2,19 +2,27 @@
 
 Africa Central is one of three VATSSA Flight Service Stations serving the airspaces of FWLL, FZZA, HKNA, HTDC, HUEC, FLFI, FNAN and FSSS. 
 
-## Rules
+Within this page is some things to keep in mind while controlling this sector.
 
-| Category       | FIR  | Rule | Remarks |
-| -------------- | ---- | ---- | ------- |
-| Airspace Type  | FLFI | -    | -       |
-| :::            | FNAN | Procedural (FIR) | - |
-| :::            | FSSS | Procedural (FIR) | - |
-| :::            | FWLL | Procedural (FIR) | - |
-| :::            | FZZA | -    | -       |
-| :::            | HBBA | -    | -       |
-| :::            | HKNA | Radar (FIR) | - |
-| :::            | HRYR | -    | -       |
-| :::            | HTDC | Procedural (FIR) | - |
+!!! info 
+    Due to lack of public AIPs and datasources, this page will not be in the best detail.
+
+## Airspace type
+
+| FIR  | Rule | Remarks |
+| ---- | ---- | ------- |
+| FLFI | -    | -       |
+| FNAN | Procedural (FIR) | - |
+| FSSS | Procedural (FIR) | - |
+ | FWLL | Procedural (FIR) | - |
+ | FZZA | -    | -       |
+ | HBBA | -    | -       |
+ | HKNA | Radar (FIR) | - |
+ | HRYR | -    | -       |
+| HTDC | Procedural (FIR) | - |
+
+
+
 | Separation     | FLFI | -    | -       |
 | :::            | FNAN | -    | -       |
 | :::            | FSSS | RNP10 Defined routes with 10 MIN or 100 NM Lateral Separation | - |
