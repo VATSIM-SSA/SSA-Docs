@@ -21,7 +21,7 @@ Within this page is some things to keep in mind while controlling this sector.
  | HRYR | -    | -       |
 | HTDC | Procedural (FIR) | - |
 
-
+## Separation
 
 | FIR  | Description | Notes |
 |--------|--------------|-------|
@@ -34,15 +34,10 @@ Within this page is some things to keep in mind while controlling this sector.
  | HRYR   | -            | -     |
  | HTDC   | RNAV10 with 50 NM Lateral/Longitudinal Distance Based Separation | - |
 
-| CPDLC          | FLFI | Not Applicable | - |
-| :::            | FNAN | :::  | - |
-| :::            | FSSS | :::  | - |
-| :::            | FWLL | FWLL | - |
-| :::            | FZZA | :::  | - |
-| :::            | HBBA | :::  | - |
-| :::            | HKNA | :::  | - |
-| :::            | HRYR | :::  | - |
-| :::            | HTDC | :::  | - |
+## CPDLC
+
+The CPDLC logon code is (*AFRC*)
+
 | SELCAL         | FLFI | -    | - |
 | :::            | FNAN | -    | - |
 | :::            | FSSS | Available | - |
