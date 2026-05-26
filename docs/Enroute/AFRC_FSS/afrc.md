@@ -23,14 +23,17 @@ Within this page is some things to keep in mind while controlling this sector.
 
 
 
-| Separation     | FLFI | -    | -       |
-| :::            | FNAN | -    | -       |
-| :::            | FSSS | RNP10 Defined routes with 10 MIN or 100 NM Lateral Separation | - |
-| :::            | FWLL | 20 Min / 100 NM / RVSM except RNP10 Routes | - |
-| :::            | FZZA | -    | -       |
-| :::            | HKNA | -    | -       |
-| :::            | HRYR | -    | -       |
-| :::            | HTDC | RNAV10 with 50 NM Lateral/Longitudinal Distance Based Separation | - |
+| FIR  | Description | Notes |
+|--------|--------------|-------|
+ | FLFI   | -            | -     |
+| FNAN   | -            | -     |
+ | FSSS   | RNP10 Defined routes with 10 MIN or 100 NM Lateral Separation | - |
+ | FWLL   | 20 Min / 100 NM / RVSM except RNP10 Routes | - |
+ | FZZA   | -            | -     |
+| HKNA   | -            | -     |
+ | HRYR   | -            | -     |
+ | HTDC   | RNAV10 with 50 NM Lateral/Longitudinal Distance Based Separation | - |
+
 | CPDLC          | FLFI | Not Applicable | - |
 | :::            | FNAN | :::  | - |
 | :::            | FSSS | :::  | - |
