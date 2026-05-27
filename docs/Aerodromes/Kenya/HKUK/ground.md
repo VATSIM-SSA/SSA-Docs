@@ -21,3 +21,13 @@ CALLSIGN, push-back approved, facing DIRECTION.
 | :::      | RRV   | Mombasa Air Safari     | ANY                 | -       |
 | :::      | XLK   | Safarilink             | ANY                 | -       |
 | :::      | SEW   | Skyward Express       | ANY                 | -       |
+
+### Terminal Stand Allocation
+
+- There are no stands, so it is purely based on apron space.
+- The terminal apron is used for airline arrivals and departures. However, it can also be used by GA.
+
+### Apron Stand Allocation
+
+- There are no stands, so it is purely based on apron space.
+- The apron is used for airline arrivals and departures. However, it can also be used by GA.
