@@ -34,8 +34,6 @@ At this point, the aircraft must be handed to tower so that the tower controller
 
 - Kenyan Airspace operates with the following RVSM standard table of Cruising Levels.
 
-{{ page>icao-cruiselevels#RVSM Feet }}
-
 ## SID Selection
 
 - As there are no IFR operations at Diani, no SIDs are available. Check the VFR departure procedures below.
