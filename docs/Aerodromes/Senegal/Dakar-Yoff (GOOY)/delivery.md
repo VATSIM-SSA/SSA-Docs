@@ -6,8 +6,6 @@
 - Senegal Airspace operates with the following RVSM standard table of Cruising Levels.
 - VFR flights are not allowed over and above FL150.
 
-{{ page>icao:cruise-levels#RVSM Feet }}
-
 ## Departure Procedures & Initial Climbs
 
 - GOOY does not have coded SID procedures, so the runway heading rule will apply.
