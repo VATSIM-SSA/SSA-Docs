@@ -14,7 +14,7 @@ docs/
 ├── Aerodromes/        # Aerodrome data for 40+ airports across 16+ countries
 ├── TMA/               # Terminal Manoeuvring Area procedures
 ├── Enroute/           # En-route ATC and flight service stations
-├── General/           # Phraseology, CPDLC, Euroscope guides, resources
+├── General/           # Phraseology, CPDLC, Euroscope guides, resources, Sector files
 ├── New-Controllers/   # Training guides for new controllers
 ├── Pilot Briefing/    # Pilot briefing materials by country
 └── Contributing/      # Contribution and formatting guidelines
