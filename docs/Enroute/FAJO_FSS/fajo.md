@@ -4,7 +4,7 @@
 
  It should be noted that the Atlantic component of the FAJO Johannesburg Oceanic FIR is part of the Atlantic Ocean Random Routing RNAV Area. More information about AORRA is available in the [AORRA Special Procedures](../Special Procedures/aorra.md) section of the eAIP.
 
- ## Airport Coverage
+## Airport Coverage
 
 FAJO Johannesburg Oceanic does not cover any airport. It's a pure Oceanic sector. It does, however, link with an unmanned airfield in the Antarctic.
 
@@ -19,11 +19,11 @@ FAJO Johannesburg Oceanic does not cover any airport. It's a pure Oceanic sector
 
  Satellite based ADS-B coverage is available in the FAJO Johannesburg Oceanic sector and as such, the following separation standards are to be applied:
 
- ### Vertical Separation
+### Vertical Separation
 
 Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspace
 
- ### Horizontal Separation
+### Horizontal Separation
 
  Longitudinal separation is dependent on destination of traffic:
 
@@ -37,19 +37,19 @@ Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspac
 | FAJO     | AORRA Westbound to South America  | Longitudinal separation of 10 minutes, can be shortened to 10 NM during high traffic events       |
 
 
- ## SELCAL
+## SELCAL
 
  FAJO Johannesburg Oceanic offers SELCAL capabilities.
 
- ## SLOP
+## SLOP
 
  The use of SLOP at FAJO Johannesburg Oceanic is possible up to 2 NM. Aircraft transitioning into FACA must transition to SLOP 0.5 NM.
 
-  ## VFR Rules
+## VFR Rules
 
   No specific VFR rules prescribed for FAJO Johannesburg Oceanic. 
 
- ## Sectors
+## Sectors
 
 | Position/Callsign     | Frequency/CPDLC                 | Remarks |
 |----------------|----------------------|---------|
