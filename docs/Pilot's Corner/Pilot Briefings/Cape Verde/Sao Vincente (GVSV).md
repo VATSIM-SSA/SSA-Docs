@@ -22,3 +22,10 @@
 | GVSC_APP   | Sal Approach | 126.400          | -       |
 | GVSC_APP   | Sal Approach | 128.300          | -       |
 | GVSC_CTR   | Sal Control/Oceanic  | 127.100          | -       |
+
+## Clearance Delivery
+
+- GVSV_TWR will be responsible for Clearance Delivery unless GVSC_DEL is online.
+- Expect departure from runway 06. Please comply with initial climb altitudes and departure procedures.
+
+- Oceanic Clearances are not required at Sal Oceanic.
