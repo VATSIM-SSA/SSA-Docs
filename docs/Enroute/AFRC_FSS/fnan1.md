@@ -2,6 +2,9 @@
 
 The Luanda FIR serves the country of Angola.
 
+!!! warning 
+    Radio Transceivers in the FNAN FIR are bugged especially over the ocean.
+
 ## Airport Coverage
 
 The FIR serves all airports in Angola.
