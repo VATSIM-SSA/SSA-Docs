@@ -1,11 +1,11 @@
-# SSA eAIP
+# SSA Docs
 
-This repository contains the official **eAIP Library** for the
+This repository contains the official **Docs Library** for the
 **VATSIM Sub-Saharan Africa Division (VATSSA)** — an electronic Aeronautical
 Information Publication providing comprehensive aviation operational information
 for virtual pilot and controller operations across the Sub-Saharan Africa region.
 
-**Live site:** <https://eaip2.vatssa.com>
+**Live site:** <https://docs.vatssa.com>
 
 ## Structure
 
