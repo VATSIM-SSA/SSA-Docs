@@ -12,10 +12,12 @@ Maputo International Airport (IATA: MPM, ICAO: FQMA), also known as Mavalane Int
 | Transition Altitude | 3000ft |
 | Transition Level | by ATC (see TL table) |
 | Mag Variation | 18º W |
+
 ## Transition Levels
 
 The following table should only be to determine the Transition Level for Maputo International Airport (FQMA).
-| QNH Range | TL |
+
+| QNH Range   | TL |
 | :---------: | :---------: |
 | 997 - 1013  | FL045 |
 | 1014 - 1029 | FL040 |
