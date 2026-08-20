@@ -12,15 +12,19 @@ TWR will be responsible for the movements on the runway, as well as the responsi
 | Jet              | 7500ft on QNH    |
 | Turbine / Piston | 6500ft           |
 
-* All circuits are conducted left hand normally, but may be conducted right hand at the discretion of the Tower controller.
-RWY 06 - Right hand
-RWY 24 - Left hand
+* All circuits are conducted to the south of the aerodrome normally, i.e. right hand for runway 06 and left hand for runway 24.
+  Variations may be conducted at the discretion of the Tower controller.
 
 !!! info "Circuit Clearance"
-    ZSABC, hold position, after departure Runway XX, L / R hand circuits, not above XXXXft, report L / R downwind Runway XX.
+    ZSABC, hold position, after departure Runway 06, right hand circuits, not above 6500ft, report right downwind Runway 06.
+
+    ZSABC, hold position, after departure Runway 24, left hand circuits, not above 6500ft, report left downwind Runway 24.
+
 
 !!! info "Circuit Clearance (Non STD)"
-    ZSABC, hold position, after departure Runway XX, non standard L / R hand circuits, not above XXXXft, report non standard L / R downwind Runway XX.
+    ZSABC, hold position, after departure Runway 06, non standard left hand circuits, not above 6500ft, report non standard left downwind Runway 06.
+
+    ZSABC, hold position, after departure Runway 24, non standard right hand circuits, not above 6500ft, report non standard right downwind Runway 24.
 
 ### VRP Map
 
@@ -57,7 +61,7 @@ RWY 24 - Left hand
 !!! info "Exit Clearance via STD VFR Departure Routing"
     ZSABC, hold position, after departure Runway XX, comply with the XXXXXXXXXX XX departure, not above XXXXft, report abeam / overhead XXX XXXXXXXXX XXXXX."
 
-## Wake Seperation
+## Wake Separation
 
 ### Arrivals (nm)
 | Lead | J   | H   | M   | L   |
@@ -80,7 +84,7 @@ RWY 24 - Left hand
 ## Takeoff Phraseology
 
 !!! info "Takeoff (Full Length)"
-    ZSABC, Runway XX full length, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
+    ZSABC, Runway 06 full length, wind 010 degrees at 9 knots, cleared for takeoff, bye bye.
 
 !!! info "Takeoff (Intersection)"
-    ZSABC, Runway XX at XX, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
+    ZSABC, Runway 24 at L, wind 240 degrees at 9 knots, cleared for takeoff, bye bye.
