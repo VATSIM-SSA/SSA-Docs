@@ -123,12 +123,8 @@ To help expedite the flow of traffic out of Johannesburg during busy operations,
 
 Aircraft should be handed off early before reaching the desired holding point.
 
-### Code F Taxi Diagram (03L)
-
-![alt text](codef03l.png)
-
 !!! info
-    The SMC controller shall inform the Tower West controller once a Code F aircraft has begun pushing and started its taxi for a planned crossing of 03L. This allows sufficient deconfliction with any crossing traffic which may block the path of the aircraft later on. Under no circumstances should an SMC controller cross an aircraft across the runway.
+    Code F aircraft now taxi full length RWY 03L (Holding Point B)
 
 ### Arriving Aircraft
 Upon arrival into O.R. Tambo, inbound aircraft are to provide their aircraft registration (tail number) and their parking bay (stand number) that they desire. This will initially be passed to Tower East if vacating on 03R, which will be relayed to the SMC controller. You must check that their requested stand is in compliance with the restrictions listed above. If so, then the aircraft can be instructed to taxi to the bay. If not, ask the pilot for a different stand, or feel free to assign one yourself.
