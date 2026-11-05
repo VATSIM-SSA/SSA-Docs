@@ -46,6 +46,7 @@ Controllers should issue these stands rather than any terminal ones.
 MARS — Multiple Aircraft Ramp System — is an airport gate design that allows a single aircraft parking stand to accommodate more than one type or size of aircraft.
 
 At Cape Town, the following stands can be used in conjuction with each other, up to a maximum of Code C (max 36m wingspan) aircraft on them.
+
 | Stands | Blocks off Stand |
 | :---------: | :---------: |
 | B1 and B3 | B2 | 
@@ -73,7 +74,7 @@ SMC controllers should remain vigilant at all times as, due to its layout, Cape 
 | 19 | North |
 | 16 | North |
 | 01 | South |
-| 34 | North or South depending on aircraft position  |
+| 34 | North or South depending on aircraft position |
 
 
 **An aircraft must be squawking their assigned ASSR code provided in the clearance before pushback clearance is issued. If this is not the case, the SMC controller must instruct the pilot to do so BEFORE any push clearance is issued.**
@@ -86,6 +87,7 @@ SMC controllers should remain vigilant at all times as, due to its layout, Cape 
 By default, all aircraft should be taxied to the full length holding point unless otherwise requested by a pilot.
 
 <u>Intersections</u>
+
 | Runway in use | Intersection | TORA |
 | :---------: | :---------: | :---------: |
 | 19 | Full length | 3201 | 
