@@ -34,5 +34,4 @@ In high traffic situations, in order to maintain the high speed exits clear of t
 
 ### Hotspots
 
-!!! warning
-   The main apron and surrounding areas may become congested when busy, SMC is encouraged to make a directional entry/exit to the apron, like Nairobi, depending on the active runway."
+!!! warning The main apron and surrounding areas may become congested when busy, SMC is encouraged to make a directional entry/exit to the apron, like Nairobi, depending on the active runway."
