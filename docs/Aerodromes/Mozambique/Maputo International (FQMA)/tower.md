@@ -40,7 +40,7 @@ The responsibility of Tower at Maputo International Airport falls to the dedicat
 ## Takeoff Phraseology
 
 !!! info "Takeoff (Full Length)"
-    C9ABC, Runway XX full length, wind 080 degrees at 9 knots, cleared for takeoff.
+    C9ABC, Runway XX, wind 080 degrees at 9 knots, cleared for takeoff.
 
 !!! info "Takeoff (Intersection)"
     ZSABC, Runway XX at XX, wind 080 degrees at 9 knots, cleared for takeoff.
