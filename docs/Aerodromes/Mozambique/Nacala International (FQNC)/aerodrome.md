@@ -15,7 +15,7 @@ Nacala International Airport (IATA: MNC, ICAO: FQNC), is an airport near Nacala,
 
 ## Transition Levels
 
-The following table should only be to determine the Transition Level for Maputo International Airport (FQMA).
+The following table should only be to determine the Transition Level for Nacala International Airport (FQNC).
 
 | QNH Range   | TL |
 | :---------: | :---------: |
