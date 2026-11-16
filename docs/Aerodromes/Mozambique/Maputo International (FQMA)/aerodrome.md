@@ -37,9 +37,7 @@ The following table should only be to determine the Transition Level for Maputo 
 
 | Type | ID | Frequency | Remarks | 
 | :---------: | :---------: | :---------: | :---------: |
-| DVOR/DME | VMA | 112.7 MHZ | 3.5 KM to RWY 23. Coverage 150/250 NM | 
-| LLZ A8X ILS CAT II | MA | 110.3 MHZ | Effective OPS CAT I | 
-| GP 23 DME | GP | 335. MHZ | 3º HGT of ILS reference datum 150 M West RWY 23 |
+| DVOR/DME | VMA | 112.7 MHZ | 3.5 KM to RWY 23. Coverage 150/250 NM |
 
 ## Aprons 
 
