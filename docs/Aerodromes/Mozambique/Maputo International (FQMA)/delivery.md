@@ -69,7 +69,7 @@ x = Transition
 !!! info "Delivery Phraseology"
     "(callsign), cleared to (destination), Routing xxx, FLxxx, Departure Runway XX, SID, Transition X, climb to FL090."
 
-    Example: "Mozambique 190, cleared to Nampula, Routing UW19, FL350, Departure Runway 05, UVAP1A, Transition IMTAG, climb to FL090."
+    Example: "Mozambique 190, cleared to Nampula, Routing UW19, FL350, Departure Runway 05, UVAPU1A, Transition IMTAG, climb to FL090."
 
 !!! tip
     Omit the Transition if not required
